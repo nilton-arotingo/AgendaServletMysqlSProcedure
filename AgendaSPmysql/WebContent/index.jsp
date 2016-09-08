@@ -1,0 +1,1 @@
+<% response.sendRedirect("view/Contactos?accion=QRY"); %>
